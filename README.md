@@ -1,4 +1,9 @@
 # Diagnostic Ultrasound Shiny App
+## Live App
+
+View the interactive Shiny app here:
+
+[Diagnostic Ultrasound Dashboard](https://connect.posit.cloud/ameliacottomarquez/content/01a18f00-8fa8-b688-fdac-fa7216ab7a78)
 
 ## Project Overview
 
